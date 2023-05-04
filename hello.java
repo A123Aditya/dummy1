@@ -1,6 +1,7 @@
 public class hello {
     public static void main(String args[]){
-        System.out.println("Hello Aditya and Hello Ritesh betichod shurya suman");
+        System.out.println("Hello Aditya madharchod and Hello Ritesh");
+        System.out.println("FGHGJUYFJ");
     }
 }
         
