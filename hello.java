@@ -6,6 +6,7 @@ public class hello {
           System.out.println("Aditya MadharChod hai ");
           System.out.println("Aditya Dogla hai!!!");
           System.out.println("Aditya Bhosriwala hai!!!!");
+          System.out.println("wasim and ritesh Bhosriwala hai!!!!");
         }
     }
 }
